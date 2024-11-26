@@ -388,7 +388,7 @@ input:valid {
 /*Small devices (landscape phones, 576px and up)*/
 @media screen and (max-width: 576px) {
 	.container {
-		width: 540px;
+		width: 400px;
 		text-align: center;
 	}
 
@@ -398,7 +398,7 @@ input:valid {
 
 	.offer__text {
 		margin: 0 auto;
-		font-size: 17px;
+		font-size: 15px;
 	}
 
 	.bottom__form {
@@ -406,11 +406,11 @@ input:valid {
 	}
 
 	.new__bottom__form {
-		width: 90%;
+		width: 100%;
 	}
 
 	.unit {
-		/* margin: 30px auto; */
+		margin: 10px  30px 10px 90px;
 		justify-content: center;
 	}
 
